@@ -12,11 +12,13 @@
 
 body {
   background-color: hsl(47, 88%, 63%);
-  margin-top: 150px;
+  margin-top: 100px;
   justify-content: center;
   align-items: center;
   display: flex;
   height: 100%;
+  overflow-x: hidden;
+  overflow-y: hidden;
 }
 
 .container {
